@@ -10,7 +10,7 @@ Conway's Game of Life in a lightweight .NET 4.5 app
 
 ## Deployment
 
-Just copy over and execute `GameOfLife.exe`. An installation is not needed.
+Just copy over `GameOfLife.exe` and run it. An installation is not needed.
 
 ## Built With
 
