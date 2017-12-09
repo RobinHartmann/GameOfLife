@@ -4,7 +4,11 @@ Conway's Game of Life in a lightweight .NET 4.5 app
 
 ![Main Window](docs/images/readme-main-window.png)
 
-## Prerequisites
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
 
 * [Visual Studio 2015/2017](https://www.visualstudio.com/de/vs/) - An IDE for developing .NET apps
 
