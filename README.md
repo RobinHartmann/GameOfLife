@@ -4,6 +4,18 @@ Conway's Game of Life in a lightweight .NET 4.5 app
 
 ![Main Window](docs/images/readme-main-window.png)
 
+## Prerequisites
+
+* [Visual Studio 2015/2017](https://www.visualstudio.com/de/vs/) - An IDE for developing .NET apps
+
+## Deployment
+
+Just copy over and execute `GameOfLife.exe`. An installation is not needed.
+
+## Built With
+
+* [Costura](https://github.com/Fody/Costura) - Embeds dependencies as resources
+
 ## Authors
 
 * **Robin Hartmann** - *Initial work* - [RobinHartmann](https://github.com/RobinHartmann)
