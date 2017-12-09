@@ -1,0 +1,16 @@
+﻿<Window x:Class="GameOfLife.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game of Life"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid Name="grid">
+        <DockPanel Name="panel" LastChildFill="True">
+            <Button Content="  Clear  " Click="Reset"/>
+            <Button Content="  Randomize  " Click="Randomize"/>
+            <Button Content="  Next Generation  " Click="NextGeneration"/>
+            <Button IsEnabled="False"/>
+        </DockPanel>
+    </Grid>
+</Window>
