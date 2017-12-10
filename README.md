@@ -2,7 +2,7 @@
 
 Conway's Game of Life in a lightweight .NET app
 
-![Main Window](docs/images/readme-main-window.png)
+<img src="docs/images/readme-main-window.png" height="600">
 
 ## Getting Started
 
