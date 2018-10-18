@@ -28,7 +28,7 @@ Just copy over `GameOfLife.exe` and run it. An installation is not needed.
 
 ## Authors
 
-* **Robin Hartmann** - *Initial work* - [RobinHartmann](https://github.com/RobinHartmann)
+* **Robin Hartmann** - *Initial work* - [robin-hartmann](https://github.com/robin-hartmann)
 
 ## License
 
